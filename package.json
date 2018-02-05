@@ -1,0 +1,13 @@
+{
+    "name":"froggyfrog-membership",
+    "author":"Balaji.V",
+    "Description":"A membership pattern",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "grunt":"*",
+        "grunt-contrib-jshint":"*",
+        "grunt-contrib-watch":"*"
+    }
+}
